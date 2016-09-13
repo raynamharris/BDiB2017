@@ -123,4 +123,46 @@ MB: is data analysis meant to take place during the hackathon
 
 
 
+Ideas
+5 min talks by grad students and postdocs to hit home the themes. 
+
+Senario A
+1 15 min intro
+4 30 min talks 
+2 60 min talks
+4 05 min talks
+1 15 min conclusion
+
+1 panel of program officers
+1 poster session
+
+1 thank you breakfast
+
+Rooms
+have VPR reserve the rooms.
+max 112 dinning 224 for ballroom N/S setup
+max 224 ballroom dinning. 
+max 460 auditorium
+max 48 breakfast seating.
+maybe we can finagle these with cocktail tables. 
+
+poster session 
+poster judges
+give pop-up presenters a figure that they can self identify with. 
+
+newsletters to go out
+
+Feb 14 newsletter
+2/27/2017 Pre-symposium pop announcement BEACON blog
+March merch announcement stickers
+April 24 newsletter
+6/12/2017 Post-symposium pop recap BEACON blog
+
+
+
+
+
+
+
+
 
