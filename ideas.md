@@ -57,3 +57,70 @@
 - Helix. James Lu joint venture with Illumina. 
 - Spencer Wells is on the board
 - [Rachel Haurwitz](http://cariboubio.com/about-us/management-team)
+
+
+
+
+
+Sept. 1 Meeting
+Send some updates emails after the save the date to keep people engaged
+
+CCBB Factoids, bios about the keynote, etc
+
+Sharon Briggs. James recommended that Kristine meet with her
+
+What should we pitch to them. What should we share with them about the the CCBB and the BIDS. 
+
+September 13 Kristine leaves for SF. 
+
+7 Tables of 8 - companies with 3 industry people per table, 4 students, 1 faculty/speaker
+
+Write three letters. Have Hans sign them. 
+$250 – give a tax deductions. 
+$2500
+$5000
+
+Have “table captains” who can make introductions. 
+
+Who would say the important words of wisdom? Who should faculty, industry? 
+For the URF if the judges, donors, faculty. Also serves as a room where you can leave their stuff. Gives people a chance to talk to leadership and speakers. 
+
+
+
+
+## Sept 12 Pop up meeting
+website: https://research.utexas.edu/vpr-initiatives/pop-up/tree-and-forest/
+
+- people: Hans, Tessa, Molly Bray, Mike Daniels, Mark Hayward, Chris Web, VPR assistant,  Vishy Iyer
+- dates: overview May conflicts?  Mark? in chile on 16-19.  Shepherding by the PIs and grad students to keep the focus. identify areas of interest that we can use to invite speakers for the symposium. 
+- can use non-VPR money to pay for summer stipends for postdocs to participate, or they could participate with their salary being paid by the PI via regular grants. 
+- money for 6 students for summer support! Will be added to additional 6 fellows supported by MD/HAH training grant. Hans says look at these potential students early so we can rope them into the planning and execution for the pop up and beyond. 
+- data: Mark has access to lots of data. Chris had the [Premier](https://www.premierinc.com/transforming-healthcare/healthcare-performance-improvement/premier-research-services/) data about costs of heathcare through electronic records. reach out to David 
+- opening symposium on Monday May 8th - 2 keynotes, multiple shorter talks, general poster session, also have a pop-up specific cluster of poster session, lunch panel on funding (tessa will follow up to get names). MB: was in washington NIH last friday. goal getting behavioral people to scale up work to scale up to level that would scale. how to you scale intense behavioral genomics and genetics up. 
+- dinner for grads and industry - not directly related but we could tell me 
+
+Thoughts: tessa could do a google form that stays open, so people can edit. 
+
+people for talks and/or people for workshops. 
+stephen. 
+Inderjit Dhillon is at berkeley
+jennifer beer
+suzanne alonzo - biology of individual variation and fitness. experiment + theory
+nicholas cristakis - framingham heart data
+dustin rubenstein - 
+bill rice - st. davids
+david wear (U mich, NAS). has narrow focus and runs a center. global scale big data. 
+hilliard kaplan (New Mexico, NAS). biological observing tsunami data. goldmine of integration across levels. 
+
+workshop - what are the big questions. are people still doing that. 
+VI: mentioned that people accept to give a talk. need to have clear expectations for what people are expected. need to communicate clearly what the agenda is and what their roles are. 
+
+Tessa : thematic pairs for big hitter talks with a shorter talking
+MB: have big hitters give talks at the symposium and talks during the workshops. 
+
+MB: is data analysis meant to take place during the hackathon
+
+
+
+
+
