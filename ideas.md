@@ -150,8 +150,8 @@ poster session
 poster judges
 give pop-up presenters a figure that they can self identify with. 
 
-newsletters to go out
 
+newsletters to go out
 Feb 14 newsletter
 2/27/2017 Pre-symposium pop announcement BEACON blog
 March merch announcement stickers
@@ -160,9 +160,6 @@ April 24 newsletter
 
 
 
-
-
-
-
-
-
+Chat with Nicole
+Rayna- email travis to get sticker layout. 
+Rayna - work on consulting post cards
